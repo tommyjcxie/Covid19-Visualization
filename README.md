@@ -4,6 +4,6 @@ It parses a .csv file that is sourced from the https://api.covid19api.com/summar
 <br>
 To run: 
 <br>
-1. g++ main.cpp CountryRecord.cpp -o main
+g++ main.cpp CountryRecord.cpp -o main
 <br>
-2. ./main
+./main
